@@ -1,10 +1,13 @@
-﻿namespace _10April.ClassWork.Day15
+﻿using _10April.ClassWork.Day15.Models;
+
+namespace _10April.ClassWork.Day15
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("V");
+            Manager<Product> productManager = new Manager<Product>("product.json");
+            Product product1 = new("Alma", 21.2);
         }
     }
 }

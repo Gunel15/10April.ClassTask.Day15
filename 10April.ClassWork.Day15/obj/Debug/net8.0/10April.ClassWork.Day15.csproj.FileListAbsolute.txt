@@ -1,0 +1,15 @@
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\bin\Debug\net8.0\10April.ClassWork.Day15.exe
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\bin\Debug\net8.0\10April.ClassWork.Day15.deps.json
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\bin\Debug\net8.0\10April.ClassWork.Day15.runtimeconfig.json
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\bin\Debug\net8.0\10April.ClassWork.Day15.dll
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\bin\Debug\net8.0\10April.ClassWork.Day15.pdb
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\obj\Debug\net8.0\10April.ClassWork.Day15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\obj\Debug\net8.0\10April.ClassWork.Day15.AssemblyInfoInputs.cache
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\obj\Debug\net8.0\10April.ClassWork.Day15.AssemblyInfo.cs
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\obj\Debug\net8.0\10April.ClassWork.Day15.csproj.CoreCompileInputs.cache
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\obj\Debug\net8.0\10April.ClassWork.Day15.sourcelink.json
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\obj\Debug\net8.0\10April.ClassWork.Day15.dll
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\obj\Debug\net8.0\refint\10April.ClassWork.Day15.dll
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\obj\Debug\net8.0\10April.ClassWork.Day15.pdb
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\obj\Debug\net8.0\10April.ClassWork.Day15.genruntimeconfig.cache
+C:\Users\l novbe\Desktop\Test\10April.ClassWork.Day15\10April.ClassWork.Day15\obj\Debug\net8.0\ref\10April.ClassWork.Day15.dll

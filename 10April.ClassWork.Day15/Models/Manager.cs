@@ -10,6 +10,20 @@ namespace _10April.ClassWork.Day15.Models
     public class Manager<T> where T : BaseEntity
     {
         List<T> Items = [];
+        string _path = "";
+
+        public Manager(string filename)
+        {
+            
+            string currentdirectory=Directory.GetCurrentDirectory();
+            _path = Path.Combine(currentdirectory,"..","..","..","Jsons",filename);
+            if(!File.Exists(_path)) 
+                File.Create(_path);
+        }
+
+        
+
+       
         public void Add(T entity)
         {
 
